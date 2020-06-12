@@ -1,0 +1,18 @@
+{
+  "name": "font_logos",
+  "version": "0.0.0",
+  "description": "Font specially designed to provide logos (social media, OS)",
+  "main": "logos.css",
+  "repository": "https://github.com/lgmoraes/Font_logos.git",
+  "keywords": [
+    "font",
+    "woff",
+    "icon",
+    "interface",
+    "css",
+    "front-end",
+    "vector",
+    "social-media"
+  ],
+  "dependencies": {}
+}
